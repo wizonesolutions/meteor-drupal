@@ -5,3 +5,7 @@ Right now, this adds a Meteor method that lets you create a new Meteor account b
 I will be using this in [Spendflow](http://wiz1.us/spendflowbeta) eventually.
 
 Featured in my DrupalCamp Oslo presentation about Drupal and Meteor: http://oslo2013.drupalcamp.no/program/integration-teach-drupal-to-ride-the-meteor.
+
+== Credits
+
+Thanks to [Project Ricochet](http://projectricochet.com) for allowing me to adapt and publish the code [Pushpin Planner](https://pushpinplanner.com) uses to create Meteor accounts from Drupal.
